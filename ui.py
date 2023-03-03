@@ -3,6 +3,8 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QLineEdit
 
 
+# vsdan ozgartirdim
+
 def window():
     app = QApplication(sys.argv)
     
